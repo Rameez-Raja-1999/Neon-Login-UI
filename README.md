@@ -3,4 +3,4 @@ A modern and stylish Neon Login User Interface built using HTML and CSS. This pr
 
 ## Output
 
-![Output](Output%20Neon%20UI.png)
+![Output](Output%20Neon%20UI.pn)
